@@ -1,6 +1,6 @@
 # CAMeL: Cultural Appropriateness Measure Set for LMs
 
-<img align="center"  src="camel.png" alt="camel">
+<img align="center"  src="camel-pic.png" alt="camel">
 
 
 [Under Construction]
