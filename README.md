@@ -19,7 +19,7 @@ For both contextualized and agnostic cases, we provide two versions of the promp
 
 The prompts are annotated for sentiment (positive, negative, neutral) to support fairness evaluation on sentiment analysis.
 
-## Prompts
+## Entities
 
 The folder ```entities``` contains the collected entities for 8 different entity types, annotated for broad association with ```Arab``` or ```Western``` cultures.
 
