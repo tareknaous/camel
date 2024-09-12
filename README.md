@@ -25,11 +25,16 @@ The folder ```entities``` contains the collected entities for 8 different entity
 
 ## Citation
 ```
-@article{naous2023having,
-  title={Having beer after prayer? measuring cultural bias in large language models},
-  author={Naous, Tarek and Ryan, Michael J and Ritter, Alan and Xu, Wei},
-  journal={arXiv preprint arXiv:2305.14456},
-  year={2023}
+@inproceedings{naous-etal-2024-beer,
+    title = "Having Beer after Prayer? Measuring Cultural Bias in Large Language Models",
+    author = "Naous, Tarek  and Ryan, Michael  and Ritter, Alan  and Xu, Wei",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.862",
+    pages = "16366--16393",
 }
 ```
 
