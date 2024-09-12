@@ -5,7 +5,8 @@
 
 This repository contains the natural prompts and cultural entities of the CAMeL dataset for measuring cultural biases in language models.
 
-For more details, see the accompanying paper: ["Having Beer After Prayer? Measure Cultural Bias in Large Language Models"](https://aclanthology.org/2024.acl-long.862/), **ACL 2024**
+For more details, see the accompanying paper:\
+["Having Beer After Prayer? Measure Cultural Bias in Large Language Models"](https://aclanthology.org/2024.acl-long.862/), **ACL 2024**
 
 ## Prompts
 
